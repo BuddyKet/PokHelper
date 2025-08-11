@@ -1,6 +1,6 @@
 #### **# Pokémon Helper**
 
-
+Une sorte de mini-pokédex sans ouvrir internet pour une meilleure fluidité pendant vos runs classiques/nuzlock
 
 ###### *## Utilisation simple du logiciel*
 
@@ -40,5 +40,6 @@ Pour toutes questions ou signalement de bugs :
 
 
 
-*VERSION 1.0.0*
+*VERSION 1.0.1*
+
 
