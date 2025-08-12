@@ -26,10 +26,6 @@ Pour utiliser Pokémon Helper facilement, sans devoir exécuter le programme dep
 
 
 
----
-
-
-
 *## Support \& Contact*
 
 
@@ -42,7 +38,7 @@ Pour toutes questions ou signalement de bugs :
 
 *VERSION 1.0.1*
 
-//-----------------------------------------------------------------------------------------------------------------//
+---
 
 #### **# Pokémon Helper**
 A kind of mini Pokédex that doesn't require an internet connection, for smoother gameplay during your classic/nuzlock runs.
@@ -68,7 +64,6 @@ For any questions or bug reports:
 
 *VERSION 1.0.1*
 
-//-----------------------------------------------------------------------------------------------------------------//
 
 
 
